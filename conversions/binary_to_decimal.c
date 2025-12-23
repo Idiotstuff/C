@@ -1,4 +1,4 @@
-// practice
+// practice.
 /**
  * @brief Converts a number from [Binary to Decimal](https://en.wikipedia.org/wiki/Binary-coded_decimal).
  * @details
